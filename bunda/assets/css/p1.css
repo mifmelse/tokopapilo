@@ -1,0 +1,44 @@
+.jumbotron img{
+    border: 5px solid red;
+    width: 200;
+}
+hr{
+    border-top: 5px solid black;
+    font-weight: bold;
+    width: 400px;
+}
+section.pr{
+    min-height: 600px;
+}
+section.po{
+    min-height: 300px;
+}
+
+.pp{
+    background: darkgray;
+}
+.regis{
+    padding: 15px;
+    width: 100%;
+    background: blue;
+}
+.post{
+    color:black;
+    border-radius: 5px;
+padding: 1px;
+width: 100%;
+text-align: center;
+margin-top: 10px;
+background: cyan;
+}
+.spas{
+    margin-top: 20px;
+}
+.pop{
+padding: 20px;
+background: red;
+width: 400px;
+}
+a{
+    text-decoration: none;
+}
